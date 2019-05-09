@@ -1,2 +1,2 @@
-#ToDoApp
-**Sample todo ap.
+# ToDoApp
+Sample todo ap.
